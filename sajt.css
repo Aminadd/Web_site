@@ -1,0 +1,237 @@
+body {
+	width:auto;
+	height:auto;
+    background: linear-gradient(to right, #a75858 30%,#b3b3b3 100%);
+
+}
+
+#Hnav {
+	width:100%;
+
+}
+
+}
+#Vnav{
+	width:35%;
+	padding:20px;
+	margin:20px;
+background:blue;
+	
+}
+#Vnav td {
+	display:block;
+	list-style-type:none;
+	margin-left:35%;
+
+}
+#onama{
+	width:60%;
+	
+	
+	position: absolute;
+    top: 400px;
+    right: 100px;
+    
+}
+#onama h3,{
+	float:right;
+}
+
+#kontakt{
+	width:60%;
+	
+	
+	position: absolute;
+    top: 400px;
+    right: 100px;
+    
+}
+#kontakt h3,{
+	float:right;
+}
+
+#ins{
+	width:5%;
+	height:5%;
+}
+#grad{
+	width:60%;
+	
+	
+	position: absolute;
+    top: 400px;
+    right: 100px;
+    
+}
+#grad img {
+	width:45%;
+	height:60%x;
+	
+}
+#grad h3,{
+	float:right;
+}
+
+#ogradu table{	
+width:60%;
+	position: absolute;
+    top: 400px;
+    right: 100px;
+    
+}
+#ogradu img{
+	width:100%;
+	height:50%;
+}
+#ogradu p{
+	width:100%;
+	height:50%;
+	text-align:center;
+	text-align:justify;
+}
+#ogradu th,tr{
+	width:50%;
+	height:50%;
+}
+#footer{
+	background:gray;
+margin-bottom:0%;	
+	
+}
+#footer p{
+	margin-left:35%;
+	margin-right:25%;
+text-align:center;
+	text-align:justify;
+}
+#saobracaj{
+
+	width:60%;
+	position: absolute;
+    top: 343px;
+    right: 150px;
+    
+
+}
+
+#saobracaj p{
+	width:100%;
+	height:100%;
+	text-align:center;
+	text-align:justify;
+}
+#saobracaj .img{
+	    float: left;
+    margin-right: 10px;
+}
+#istorija table{	
+    width:60%;
+	position: absolute;
+    top: 60%;
+    right: 10%;
+    
+}
+
+#istorija img{
+	width: 100%;
+	height: 60%;
+}
+#istorija p{
+	width:100%;
+	height:50%;
+text-align:center;
+	text-align:justify;
+}
+#istorija th,tr{
+	width:50%;
+	height:50%;
+}
+#istorija video {
+	width: 90%;
+	height: 40%;
+}
+#mojepesmeipevaci table{	
+    width:60%;
+	position: absolute;
+    top: 55%;
+    right: 10%;
+    
+}
+#mojepesmeipevaci img{
+	width: 60%;
+	height: 60%;
+}
+#mojepesmeipevaci th,tr{
+	width:50%;
+	height:50%;
+}
+#studije{
+	position:absolute;
+	width:60%;
+	top:60%;
+	right:10%;
+}
+#studije p{
+	
+	text-align:center;
+	text-align:justify;
+}
+#mojhobi{
+	
+	position:absolute;
+	width:65%;
+	top:60%;
+	right:10%;
+	left:30%;
+}
+#mojaputovanja table{
+	position:absolute;
+	width:60%;
+	top:50%;
+	right:5%;
+}
+
+#mojaputovanja h2{
+	position:absolute;
+	width:60%;
+	top:40%;
+	right:45%;
+}
+
+#mojaputovanja h3{
+	position:absolute;
+	width:60%;
+	top:5%;
+	right:45%;
+}
+
+#mojaputovanja video {
+	width: 80%;
+	height: 30%;
+	
+}
+
+#mojaputovanja th,tr{
+	width:50%;
+	height:50%;
+	
+}
+
+#mojaputovanja p{
+	text-align: center;
+	text-align: justify;
+}
+#msms p{
+	text-align: center;
+	text-align: justify;
+}
+#msms table {
+	 width:60%;
+	position: absolute;
+    top: 60%;
+    right: 10%;
+}
+#msms  th,tr{
+	width:50%;
+	height:50%;
+}
